@@ -1,0 +1,25 @@
+{
+  "name": "doing",
+  "version": "0.0.0",
+  "description": "a cli todo list designed for geeks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/doing.git"
+  },
+  "keywords": [
+    "todo",
+    "doing",
+    "done",
+    "list"
+  ],
+  "author": "turing <o.u.turing@Gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/doing/issues"
+  },
+  "homepage": "https://github.com/turingou/doing"
+}
